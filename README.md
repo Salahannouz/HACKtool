@@ -1,5 +1,5 @@
-# LuPuX
+# HACKtool
 
 
 # INSTALATION
-$  apt install git && git clone https://github.com/SALITERUX/LuPuX && cd LuPuX && bash setup.sh
+$  apt install git && git clone https://github.com/salahannouz/HACKtool && cd HACKtool && bash setup.sh
